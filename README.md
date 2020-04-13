@@ -1,7 +1,7 @@
 # learning-journal
 
 ## Growth Mindset
- ->This is a mindset that believes _intelligence_ is not limited.
+ >This is a mindset that believes _intelligence_ is not limited.
    -1. Embraces challenges
    -1. persists when faced with obstacles 
    -1. believes in no pain, no gain
