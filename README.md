@@ -16,5 +16,5 @@
 - Everyone is new at something at some point.
 - being good at something is easy, being great at something is hard.
 
--[]agree
--[]disagree
+- [ ] agree
+- [ ] disagree
