@@ -1,4 +1,4 @@
- # :book: learning-journal :book:
+ # learning-journal
 
 ## Growth Mindset
  >This is a mindset that believes _intelligence_ is not limited.
