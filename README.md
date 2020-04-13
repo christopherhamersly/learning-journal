@@ -7,6 +7,7 @@
  1. believes in no pain, no gain
  1. learns from criticism
  1. is inspired by the success of others
+ 
  More information [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
