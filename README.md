@@ -1,4 +1,4 @@
-![trees](https://www.shutterstock.com/image-vector/forest-background-nature-landscape-evergreen-coniferous-1167198787)
+
 
 #  :book: learning-journal :book:
 
@@ -48,5 +48,4 @@ Input | Result
  \##### The \~~quick~~ brown fox jumped over the \*lazy* : dog :
  
  
- ![trees] (https://upload.wikimedia.org/wikipedia/commons/a/a2/S%C5%82owi%C5%84ski_National_Park_-_Nature_15.jpg)
- # Photo from Wikipedia
+
