@@ -1,4 +1,6 @@
- #  :book: learning-journal :book:
+![trees](https://www.shutterstock.com/image-vector/forest-background-nature-landscape-evergreen-coniferous-1167198787)
+
+#  :book: learning-journal :book:
 
 ## Growth Mindset
  >This is a mindset that believes _intelligence_ is not limited.
