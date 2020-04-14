@@ -21,7 +21,7 @@
 
 # Markdown 
  >Another type of programming language.  
-## Unlike HTML it doesn't rely on <h1>/</h1> commands to create headers or <p>/</p> paragraphs.  Instead, it uses a few keyboard  shortcuts to quickly create websites.  You can find a few of the shortcuts below. 
+## It uses its own proprietary language to display information. You can find a few of the shortcuts below. 
 
 
 
