@@ -22,7 +22,7 @@
 - [ ] agree
 - [ ] disagree
 
-[Information on Github Markdowns](https://christopherhamersly.github.io/learning-journal/github.md)
+[Information on Github Markdowns](https://christopherhamersly.github.io/learning-journal/github)
  
  
 
