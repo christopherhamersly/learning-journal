@@ -35,3 +35,5 @@ Input | Result
  | ## | Heading 2  
  | :emojiname: | Emoji
  |~~ text ~~ | strikethrough
+ 
+ ##### The ~~quick~~ brown fox jumped over the *lazy* :dog:
