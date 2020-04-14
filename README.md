@@ -18,3 +18,11 @@
 
 - [ ] agree
 - [ ] disagree
+
+## Shortcuts to remember 
+| * |  Italics | * | 
+| ** | Bold  | ** |  
+| _ | Bold  | _ |   
+| # | Heading 1  | # |  
+| ## | Heading 2  | ## |  
+| Format: ![Alt Text](url) | Links  |  
