@@ -1,3 +1,6 @@
+# Text Editor
+### A good text editor should be one that helps make coding more effective for the user.  It should be one that helps make deciphering lines of clear and concise. Each person is different, and you should make sure to find the best text editor to suit your preferences. 
+
 # Linux
 > Another type of coding language
 
@@ -27,9 +30,9 @@
  > ls -a documents - shows hidden documents
  ***
 
-## *Linux is Case SeNsItIvE
+### *Linux is Case SeNsItIvE
 
-### You may be able to recall a file with two names by one of the following 
+#### You may be able to recall a file with two names by one of the following 
 [ ] adding a backslash between the names
 [ ] adding quotes around the names
  
