@@ -30,7 +30,7 @@
 ## *Linux is Case SeNsItIvE
 
 ### You may be able to recall a file with two names by one of the following 
-(-) adding a backslash between the names
+([-]) adding a backslash between the names
 (-) adding quotes around the names
  
  
