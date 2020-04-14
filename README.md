@@ -20,9 +20,11 @@
 - [ ] disagree
 
 ## Shortcuts to remember 
-| * |  Italics | * | 
-| ** | Bold  | ** |  
-| _ | Bold  | _ |   
-| # | Heading 1  | # |  
-| ## | Heading 2  | ## |  
-| Format: ![Alt Text](url) | Links  |  
+Input | Result
+------------ | -------------
+ | * |  Italics  
+ | ** | Bold  
+| _ | Bold  
+ | # | Heading 1  
+ | ## | Heading 2  
+ Format: ![Alt Text](url) | Links  |  
