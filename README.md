@@ -28,3 +28,4 @@ Input | Result
  | # | Heading 1  
  | ## | Heading 2  
  | :emojiname: | Emoji
+ |~~ text ~~ | strikethrough
