@@ -48,5 +48,5 @@ Input | Result
  \##### The \~~quick~~ brown fox jumped over the \*lazy* : dog :
  
  
- ![trees](Screen Shot 2020-04-13 at 7.17.36 PM)
+ ![trees](https://unsplash.com/photos/MDteiLH1CZY)
  Photo by Ian Keefe on Unsplash
