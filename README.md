@@ -19,13 +19,13 @@
 - [ ] agree
 - [ ] disagree
 
-# Markdown 
+## Markdown 
  >Another type of programming language.  
-## It uses its own proprietary language to display information. You can find a few of the shortcuts below. 
+### It uses its own proprietary language to display information. You can find a few of the shortcuts below. 
 
 
 
-## Shortcuts to remember 
+### Shortcuts to remember 
 Input | Result
 ------------ | -------------
  | * |  Italics  
