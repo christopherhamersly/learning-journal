@@ -11,7 +11,8 @@
   1. is inspired by the success of others
  
  More information [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
+ 
+ ***
 
 ### Growth Mindset Reminders
 - Don't give up.
@@ -25,7 +26,7 @@
  >Another type of programming language.  
 ### It uses its own proprietary language to display information. You can find a few of the shortcuts below. 
 
-
+***
 
 ### Shortcuts to remember 
 Input | Result
@@ -38,8 +39,14 @@ Input | Result
  | :emojiname: | Emoji
  |~~ text ~~ | strikethrough
  
- ### Sample Sentance
+ ***
+ 
+ ### Sample Sentence
  
  ##### The ~~quick~~ brown fox jumped over the *lazy* :dog:
  ### When written using markup it will look like this;  
  \##### The \~~quick~~ brown fox jumped over the \*lazy* : dog :
+ 
+ 
+ ![trees](Screen Shot 2020-04-13 at 7.17.36 PM)
+ Photo by Ian Keefe on Unsplash
