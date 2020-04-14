@@ -36,4 +36,8 @@ Input | Result
  | :emojiname: | Emoji
  |~~ text ~~ | strikethrough
  
+ ### Sample Sentance
+ 
  ##### The ~~quick~~ brown fox jumped over the *lazy* :dog:
+ 
+ #### when written using markup it will look like this; | ##### The ~~quick~~ brown fox jumped over the *lazy* :dog:|
