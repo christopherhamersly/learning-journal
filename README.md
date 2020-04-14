@@ -48,5 +48,5 @@ Input | Result
  \##### The \~~quick~~ brown fox jumped over the \*lazy* : dog :
  
  
- ![trees](https://unsplash.com/photos/MDteiLH1CZY)
- Photo by Ian Keefe on Unsplash
+ ![trees](https://upload.wikimedia.org/wikipedia/commons/a/a2/S%C5%82owi%C5%84ski_National_Park_-_Nature_15.jpg)
+ # Photo from Wikipedia
