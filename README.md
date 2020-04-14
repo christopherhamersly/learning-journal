@@ -27,4 +27,4 @@ Input | Result
 | _ | Bold  
  | # | Heading 1  
  | ## | Heading 2  
- Format: ![Alt Text](url) | Links  |  
+ | Format: ![text](url) | Links  |  
