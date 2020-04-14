@@ -39,5 +39,5 @@ Input | Result
  ### Sample Sentance
  
  ##### The ~~quick~~ brown fox jumped over the *lazy* :dog:
- 
- #### When written using markup it will look like this;  ##### The ~~quick~~ brown fox jumped over the *lazy* :d o g:
+ ### When written using markup it will look like this;  
+ | ##### The ~~ quick ~~ brown fox jumped over the *lazy* :d o g: |
