@@ -27,4 +27,4 @@ Input | Result
 | _ | Bold  
  | # | Heading 1  
  | ## | Heading 2  
- | Format: ![text](url) | Links  |  
+ | :emojiname: | Emoji
