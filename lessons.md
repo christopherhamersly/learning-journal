@@ -4,4 +4,12 @@
 >Pay attention to spaces
 
 ## Remember where you are in the terminal 
-> pwd and ls are your friends. 
+> pwd and ls are your friends.
+
+## Take a break.  
+
+## Take a break
+
+## Take a break
+
+## Go for a walk 

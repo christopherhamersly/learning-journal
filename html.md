@@ -19,12 +19,12 @@
 
 Input | Result
 ------------ | -------------
- | < p > |  Paragrah  
- | img src= "" | Image Source 
-| < div > | Division  
- | < h1 > | Heading 1  
+  < p > |  Paragrah  
+  img src= "" | Image Source 
+ < div > | Division  
+  < h1 > | Heading 1  
  
- ### Creat your framework first
+ ### Create your framework first
  > Draw out/sketch out skeleton
 
  > Make sure to have < !doctype html > at the beginning of your code

@@ -1,5 +1,5 @@
 
-#  :book: learning-journal :book:
+# learning-journal
 
 ## Growth Mindset
  >This is a mindset that believes _intelligence_ is not limited.
@@ -21,4 +21,4 @@
 - [ ] agree
 - [ ] disagree
 
-[Information on Github Markdowns](https://christopherhamersly.github.io/learning-journal/github)
+[Link to Github page](https://christopherhamersly.github.io/learning-journal/github)
