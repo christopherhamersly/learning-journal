@@ -1,4 +1,4 @@
-## Markdown 
+## markdown 
  >Another type of programming language.  
 ### It uses its own proprietary language to display information. You can find a few of the shortcuts below. 
 
