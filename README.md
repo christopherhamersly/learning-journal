@@ -8,6 +8,7 @@
  1. [java](https://christopherhamersly.github.io/learning-journal/java)
  1. [javaexcercise](https://christopherhamersly.github.io/learning-journal/java.exercise)
  1. [java.programming](https://christopherhamersly.github.io/learning-journal/javaprogramming)
+ 1. [java.learning.continued](christopherhamersly.github.io/learning-journal/java.learning.continued)
  1. [lessons](https://christopherhamersly.github.io/learning-journal/lessons)
  1. [linux](https://christopherhamersly.github.io/learning-journal/linux)
  1. [markdown](https://christopherhamersly.github.io/learning-journal/markdown)
