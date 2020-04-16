@@ -10,6 +10,7 @@
  1. [javaexcercise](https://christopherhamersly.github.io/learning-journal/java.exercise)
  1. [java](https://christopherhamersly.github.io/learning-journal/java)
  1. [how.computers.work](https://christopherhamersly.github.io/learning-journal/how.computers.work)
+ 1. [java.programming](https://christopherhamersly.github.io/learning-journal/javaprogramming)
 
 
  
