@@ -9,6 +9,7 @@
  1. [css](https://christopherhamersly.github.io/learning-journal/css)
  1. [javaexcercise](https://christopherhamersly.github.io/learning-journal/java.exercise)
  1. [java](https://christopherhamersly.github.io/learning-journal/java)
+ 1. [how.computers.work](https://christopherhamersly.github.io/learning-journal/how.computers.work)
 
 
  

@@ -1,6 +1,6 @@
 # Java Exercise
 
-###Followed along with the book to be able to create code that updated a greeting with the time.  Created a more dynamic looking website. 
+### Followed along with the book to be able to create code that updated a greeting with the time.  Created a more dynamic looking website. 
 > Time was broken up into four different sections and used the > to dictate what greating was used.
 
 > Used the variable of a few different attributes to create the greeting. 
